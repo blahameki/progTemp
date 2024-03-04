@@ -1,0 +1,3 @@
+C:/Users/czkor/OneDrive/Dokumentumok/C C++/CLion/cmake-build-debug/CMakeFiles/CLion.dir
+C:/Users/czkor/OneDrive/Dokumentumok/C C++/CLion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/czkor/OneDrive/Dokumentumok/C C++/CLion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
